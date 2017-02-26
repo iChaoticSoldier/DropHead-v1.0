@@ -1,0 +1,6 @@
+name: DropHead
+author: iChaoticSoldier
+description: A plugin that drops head when a player die
+version: 1.0
+main: DropHead\Main
+api: [1.12.0, 3.0.0-ALPHA3]
