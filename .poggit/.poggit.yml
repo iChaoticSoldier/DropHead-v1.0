@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/iChaoticSoldier/DropHead-v1.0
+branches:
+- master
+projects:
+  DropHead-v1.0:
+    path: ""
+...
